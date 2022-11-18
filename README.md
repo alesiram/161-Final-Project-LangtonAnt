@@ -1,4 +1,4 @@
-# project-10
+# Computer Sciene 1: Portfolio Project: Langton's Ant
 
 **Remember that this project cannot be submitted late.**
 
