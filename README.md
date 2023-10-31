@@ -1,8 +1,6 @@
 # Computer Sciene 1: Portfolio Project: Langton's Ant
 
-**Remember that this project cannot be submitted late.**
-
-In this project, you are going to write an Ant class to simulate Langton’s Ant. You can see the brief explanation [here](https://en.wikipedia.org/wiki/Langton%27s_ant).
+In this project, an Ant class is written to simulate Langton’s Ant. You can see the brief explanation [here](https://en.wikipedia.org/wiki/Langton%27s_ant).
 
 In this simulation, a virtual "ant" moves about a two-dimensional square matrix, whose spaces can be designated white or black, according to the rules below:
 
